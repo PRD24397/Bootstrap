@@ -1,1 +1,44 @@
-helllo world
+What bootstrap is and why should learn it ?
+--------------------------------------------------------
+-open source front end framework for fast web development
+-pre made html and css classes 
+-javascript widgets and pluggins
+-mobile first and responsive layout
+
+Advantages for bootstrap
+-----------------------------------
+-browser compatiblity
+-Faster application development
+-Good for developers who lack designing skills or UI skills
+-Easy to learn  
+-Responsive layout
+
+UI utilities and classes on
+------------------------------------------
+-Grid system
+-Text and typography
+-Positioning 
+-Spacing
+-Sizing
+-Alignment
+-Colors
+-Images
+-Response utilities
+-Forms and input gropus
+-Tables
+-List gropus
+-Cards
+-Progress Bars
+-Alerts
+-Navbar and menus
+-Buttons and Button gropus
+-Pagination
+-Media objects
+-Jumboton
+-Badges
+-Carousal sliders
+-Collapsable accordian
+-Modals
+-Tooltips
+-Popovers
+-ScrollSay
