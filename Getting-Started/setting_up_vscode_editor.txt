@@ -1,0 +1,6 @@
+vscode extentions for bootstrap and front end development
+
+-Emmet pluggin
+-Live server by Rutwick Dey
+-pretieer by esben peterson
+-vscode cions by Roberto Huretas
