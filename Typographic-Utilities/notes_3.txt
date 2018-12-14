@@ -1,0 +1,17 @@
+Ready reference for floats and fixed position classes of bootstrap
+
+- for non responsive floats 
+    class= "float-right" for floatin the text to the right
+    for not floating do float-none and to float to the left do float-left
+-for responsive floating use 
+    class = "float-sm-right" use any 1 from 4 in place for sm and right left or none in plac of right based on the requirement
+-clearfix 
+    refer code snipet for before and after clearfix
+    clar the flow so whatever comes next under div comes later (cleared) after that div
+-fixed top
+    no matter where you go on the page that perticulat things stays on the top
+-sticky-top
+    <h3 class = "sticky-top"> This sticks to the top </h3>
+    this sticks on top whan you scroll down. If that eement is scrolled and reached to the top, it stays on top on further scrrolling
+-fixed-bottom
+    always sticks to the bottom irrespective of scrolling
