@@ -1,0 +1,22 @@
+Reference for margin spacing and padding
+These classes are important for project
+
+-  <h1 class="mb-0 bg-success"> 0 </h1> for creating between the line spacing. that is the spacing between the consequetive html elements
+    more the no of mb, higher is the no of spacing between the ssuccesive html elements
+    0 to 5
+    m stands for margin and p stands for padding 
+    with each m and p we have the following combinations
+    t- top 
+    b- bottom
+    l-left
+    x- both left and right 
+    r-right
+    y-both top and bottom (keeps sspace as per as the count between 0 to 5 between the paragraphs)
+
+    for margin do class="m-5" so that it has 5 in top bottom left and right
+
+
+    Padding is used for dilation
+    same mechanish as margin but inverse operation
+
+    mx-auto for horizontal centering
