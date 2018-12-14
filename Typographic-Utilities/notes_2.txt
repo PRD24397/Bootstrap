@@ -1,0 +1,18 @@
+Notes on bootstrap's Text alignment and Display
+
+- justify text in both the sides
+    <p class = "justify"> justifies the paragrapoh </p>
+- alignment of text
+    <p class="text-right">Prayag Desai</p> for left use class = "text-left" for center use class = "text-center"
+-Responsive align 
+    In bootstrap following type pf screen size
+    1.small sm
+    2.medium md
+    3.large lg
+    4.Extra large xl
+
+    use queries like class = "text-sm-right" or in place of sm use md, lg or xl for setting responsive align according to the screen size
+
+- Turning block level to inline 
+    refer code snippet before and after applying d-inline
+-
